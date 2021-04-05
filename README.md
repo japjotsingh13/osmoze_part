@@ -69,4 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### `$ npm i vertical-timeline-component-for-react` to install react timeline component
+### `$ npm i vertical-timeline-component-for-react` 
+To install react timeline component
